@@ -12,4 +12,4 @@
 
 * To monitor and interact with your application: http://localhost:8888/actuator
 * In order to read properties set for an application: ``http://localhost:8888/{CLIENT_APP_NAME}/{PROFILE}/master``
-<br/>Sample: `http://localhost:8888/sample-config-client/development/master`
+<br/>Sample: `http://localhost:8888/sample-spring-cloud-config-client/development/master`
